@@ -1,0 +1,10 @@
+{
+  "db_dir": "chroma_20260919_101519_656378",
+  "embed_model": "bge-m3",
+  "collection": "class_rag",
+  "chunk_count": 87,
+  "source": "pokemon_guide_text.pdf",
+  "pdf_sha256": "73c510ebf005af3b629b10e2a6688f34646b00d4efe4d071953f370a4f14adbc",
+  "chunk_size": 700,
+  "chunk_overlap": 100
+}
